@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Módulo para listar todos los documentos de una colección de MongoDB
 """
